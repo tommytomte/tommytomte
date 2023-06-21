@@ -7,7 +7,9 @@
 
 ## About Me
 
-Hi, I'm Tomasz, and I'm passionate about exploring entrepreneurial opportunities in the software development industry. With my skills in programming, problem-solving, and knowledge of agile methodologies, I envision starting my own software development agency or consultancy. My goal is to provide tailored services to companies seeking software solutions, building a strong client base from diverse industries. I strive to deliver high-quality software solutions that exceed client expectations and foster long-term partnerships. 
+Hi, 
+
+I'm Tomasz, and I'm passionate about exploring entrepreneurial opportunities in the software development industry. With my skills in programming, problem-solving, and knowledge of agile methodologies, I envision starting my own software development agency or consultancy. My goal is to provide tailored services to companies seeking software solutions, building a strong client base from diverse industries. I strive to deliver high-quality software solutions that exceed client expectations and foster long-term partnerships. 
 
 ## Projects
 
